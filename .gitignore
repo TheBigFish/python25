@@ -127,3 +127,29 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.obj
+*.tlog
+PCbuild8/x86-temp-debug
+PCbuild8/x86-temp-release
+*.pdb
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.exp
+*.lib
+*.exe
+*.sdf
+*.suo
+*.bsc
+*.ilk
+*.o
+*.opensdf
+PC/python_nt_d.h
+PC/pythonnt_rc_d.h
+PCbuild8/python25_d.dll
+PCbuild8/UpgradeLog.XML
+PCbuild8/_UpgradeReport_Files/UpgradeReport_Minus.gif
+PCbuild8/_UpgradeReport_Files/UpgradeReport_Plus.gif
+PCbuild8/_UpgradeReport_Files/UpgradeReport.css
+PCbuild8/_UpgradeReport_Files/UpgradeReport.xslt
